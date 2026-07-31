@@ -46,6 +46,10 @@ a small-sample fluke.
 
 ![Top underperformers](top_underperformers.png)
 
+## Dashboard
+
+![Streamlit dashboard](dashboard_screenshot.png)
+
 ## Project Structure
 
 ```
