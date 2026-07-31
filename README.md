@@ -1,5 +1,11 @@
 # Underperforming Products by Region
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/license-unspecified-lightgrey)
+
 A data analysis project answering a real business question: **which products are
 underperforming, and in which regions?** Built with pandas for cleaning, SQL for
 analysis, and Streamlit for an interactive dashboard.
@@ -80,3 +86,7 @@ jupyter notebook starter.ipynb
 # Dashboard
 streamlit run app.py
 ```
+
+## License
+
+No license specified.
