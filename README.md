@@ -46,6 +46,11 @@ a small-sample fluke.
 
 ![Top underperformers](top_underperformers.png)
 
+The same chart as it renders inside the notebook, alongside the code that
+produced it:
+
+![Notebook chart](notebook_chart_context.png)
+
 ## Dashboard
 
 ![Streamlit dashboard](dashboard_screenshot.png)
